@@ -1,6 +1,6 @@
 <!-- Eye-Catching Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Cd6Tn3Y.png" alt="Banner" width="100%" />
+  <img src="WhatsApp Image 2025-06-05 at 09.58.10_80bafab5.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivesh Kumar</h1>
